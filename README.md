@@ -8,14 +8,6 @@ Você no controle da sua rotina!
 <br><br>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=nlw&message=setup&color=blueviolet&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/MrRioja/nlw-setup?color=blueviolet&logo=License&style=for-the-badge"/>
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MrRioja/nlw-setup?color=blueviolet&logo=TypeScript&logoColor=white&style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MrRioja/nlw-setup?color=blueviolet&style=for-the-badge">
-</p>
-<br>
-
-<p align="center">
   <a href="#sobre">Sobre</a> •
   <a href="#habits">Habits</a> •
   <a href="#instalação">Instalação</a> •
@@ -192,7 +184,7 @@ $ yarn start
 ## Autor
 
 <div align="center">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/55336456?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d" />
+<img src="https://avatars.githubusercontent.com/u/101675182?v=4" />
 <h1>Daniel Carvalho</h1>
 <strong>Full Stack Developer</strong>
 <br/>
