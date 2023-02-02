@@ -184,7 +184,6 @@ $ yarn start
 ## Autor
 
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/101675182?v=4" />
 <h1>Daniel Carvalho</h1>
 <strong>Full Stack Developer</strong>
 <br/>
